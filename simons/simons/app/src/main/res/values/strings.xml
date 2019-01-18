@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A4Project</string>
+    <string name="instruction">There will be animation of buttons, you will play against the COMPUTER and pressed the exact sequence as COMPUTER plays.\nYou can set the difficulty or number of buttons in settings.\nDuring the game, you can PAUSE or PLAY(resume the game)</string>
+    <string name="difficulty_prompt">choose a difficulty</string>
+
+    <string-array name="difficulty_array">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+
+</resources>
